@@ -70,7 +70,7 @@ private:
     
     MonoChain leftChain, rightChain;
     
-    
+    //Delete after seen in remote
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (SimpleEQAudioProcessor)
 };
